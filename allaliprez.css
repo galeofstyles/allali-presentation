@@ -140,6 +140,9 @@
 
 #irlallali img {
   max-width: 100px;
+}
+
+#irlallali img:nth-child(1) {
   float: left;
   margin-right: 10px;
 }
