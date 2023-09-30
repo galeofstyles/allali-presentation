@@ -39,7 +39,7 @@
 
 #pseudoallali {
   display: inline-block;
-  margin-top: 80px;
+  margin-top: 120px;
   text-align: center;
   font-family: 'Castoro Titling', cursive;
   color: white;
@@ -51,6 +51,7 @@
   height: 150px;
   background-color: white;
   border-radius: 10px 10px 0 0;
+  margin-top: 20px;
 }
 
 .allalisst {
