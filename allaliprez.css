@@ -71,10 +71,13 @@
 .txtallali {
   box-sizing: border-box;
   text-align: justify;
-  height: 130px;
   margin: 10px;
   font-size: 14px;
   overflow: auto;
+}
+
+.txtallali:nth-child(1) {
+  height: 110px;
 }
 
 #allalianec {
