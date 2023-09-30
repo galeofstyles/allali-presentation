@@ -11,7 +11,6 @@
 }
 
 #globallali u{
-  display: inline-block;
   text-decoration: underline #cc5aad;
   text-decoration-thickness: 4px;
   text-underline-offset: 0;
@@ -72,12 +71,13 @@
   box-sizing: border-box;
   text-align: justify;
   margin: 10px;
+  padding: 5px;
   font-size: 14px;
   overflow: auto;
 }
 
-.txtallali:nth-child(1) {
-  height: 110px;
+#allaliblancid div:nth-child(2) {
+  height: 105px;
 }
 
 #allalianec {
@@ -86,6 +86,10 @@
   background-color: white;
   margin: 20px 8px;
   border-radius: 10px 10px 0 0;
+}
+
+#allalianec div:nth-child(2) {
+  height: 250px;
 }
 
 #allaliadj {
@@ -120,6 +124,10 @@
   height: 250px;
   background-color: white;
   border-radius: 10px 10px 0 0;
+}
+
+#allalihist div:nth-child(2) {
+  height: 200px;
 }
 
 #irlallali {
