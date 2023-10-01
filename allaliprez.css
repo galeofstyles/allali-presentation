@@ -130,6 +130,12 @@
   height: 200px;
 }
 
+#allalihist img {
+  width: 80px; 
+  margin: 5px; 
+  border-radius: 10px;
+}
+
 #irlallali {
   width: 480px;
   height: 150px;
