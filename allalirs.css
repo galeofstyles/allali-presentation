@@ -101,6 +101,12 @@
   margin: 25px 8px 20px;
 }
 
+#allaliadj a {
+  color: white!important;
+  position: relative;
+  z-index: 11;
+}
+
 #aestallali {
   columns: 2;
   column-gap: 0px;
@@ -111,6 +117,7 @@
 #aestallali img {
   width: 95px;
   border-radius: 10px;
+  margin: 6px auto;
 }
 
 #allalihist {
