@@ -1,0 +1,138 @@
+#globallali {
+  width: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  position: relative;
+  margin: auto;
+  background: #e8c7df;
+  text-align: center;
+}
+
+#globallali u{
+  text-decoration: underline #cc5aad;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 0;
+  transition: all 0.5s ease-out;
+}
+
+#globallali u:hover{
+  background-color: #cc5aad;
+  color: white;
+  transition: all 0.3s ease-out;
+}
+
+#globallali i{
+  color: #cc5aad;
+}
+
+#img1allali {
+  width: 500px;
+  position: absolute;
+  left: 0;
+  z-index: 10;
+}
+
+#pseudoallali {
+  display: inline-block;
+  margin-top: 120px;
+  text-align: center;
+  font-family: 'Castoro Titling', cursive;
+  color: white;
+  font-size: 50px;
+}
+
+#allaliblancid {
+  width: 350px;
+  height: 150px;
+  position: relative;
+  z-index: 11;
+  background-color: white;
+  border-radius: 10px 10px 0 0;
+  margin-top: 20px;
+}
+
+.allalisst {
+  box-sizing: border-box;
+  height: 30px;
+  background-color: #e493ce;
+  border-radius: 10px 10px 0 0;
+}
+
+.allalisst span {
+  display: inline-block;
+  margin-top: -7px;
+  font: 35px 'Style Script', cursive;
+  color: white;
+}
+
+.txtallali {
+  box-sizing: border-box;
+  text-align: justify;
+  margin: 10px;
+  padding: 5px;
+  font-size: 14px;
+  overflow: auto;
+}
+
+#allaliblancid div:nth-child(2) {
+  height: 105px;
+}
+
+#allalianec {
+  width: 230px;
+  height: 300px;
+  background-color: white;
+  margin: 20px 8px;
+  border-radius: 10px 10px 0 0;
+}
+
+#allalianec div:nth-child(2) {
+  height: 250px;
+}
+
+#allaliadj {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 230px;
+  height: 300px;
+  margin: 25px 8px 20px;
+}
+
+#aestallali {
+  columns: 2;
+  column-gap: 0px;
+  margin: 5px;
+  overflow: auto;
+}
+
+#aestallali img {
+  width: 95px;
+  border-radius: 10px;
+}
+
+#allalihist {
+  width: 480px;
+  height: 250px;
+  background-color: white;
+  border-radius: 10px 10px 0 0;
+}
+
+#allalihist div:nth-child(2) {
+  height: 200px;
+}
+
+#allalihist img {
+  width: 80px; 
+  margin: 5px; 
+  border-radius: 10px;
+}
+
+#irlallali {
+  width: 480px;
+  background-color: white;
+  margin-bottom: 15px;
+  border-radius: 10px 10px 0 0;
+}
