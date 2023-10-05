@@ -101,8 +101,7 @@
   margin: 25px 8px 20px;
 }
 
-#allaliadj a {
-  color: white!important;
+#allaliadj iframe {
   position: relative;
   z-index: 11;
 }
