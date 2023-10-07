@@ -89,9 +89,11 @@
 }
 
 .cad1lienlali span {
+  display: inline-block;
   font-family: 'Castoro Titling', cursive;
   font-size: 18px;
   color: #cc5aad;
+  margin-top: 5px;
 }
 
 .desc1lienlali {
